@@ -1,5 +1,5 @@
 # parameters
-ARG REPO_NAME="project1"
+ARG REPO_NAME="<project1_HERE>"
 ARG DESCRIPTION="<1st testing>"
 ARG MAINTAINER="<HANZHI ZHENG> (<zhz201709@gmail.com>)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
