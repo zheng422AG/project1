@@ -1,7 +1,7 @@
 # parameters
-ARG REPO_NAME=project1
-ARG DESCRIPTION="<DESCRIPTION_HERE>"
-ARG MAINTAINER="<YOUR_FULL_NAME> (<YOUR_EMAIL_ADDRESS>)"
+ARG REPO_NAME="project1"
+ARG DESCRIPTION="1st project"
+ARG MAINTAINER="HANZHI ZHENG (zhz201709@gmail.com)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
 
